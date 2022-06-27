@@ -1,6 +1,6 @@
 {
   "name": "learn-expo",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "SEE LICENSE IN https://github.com/kjirou/learn-expo/blob/070178d3e0273dadec7d9ddc229732bf6ae33f27/LICENSE",
   "bugs": {
     "url": "https://github.com/kjirou/learn-expo/issues"
   },
