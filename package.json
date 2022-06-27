@@ -17,5 +17,8 @@
     "url": "https://github.com/kjirou/learn-expo/issues"
   },
   "homepage": "https://github.com/kjirou/learn-expo#readme",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "expo-cli": "^5.4.12"
+  }
 }
